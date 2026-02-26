@@ -1,7 +1,7 @@
-# Ignore datasets
-data/*.csv
-*.csv
-
-# Ignore python cache
 __pycache__/
 *.pyc
+fraud-detection/backend/data/creditcard.csv
+fraud-detection/backend/data/*.csv
+fraud-detection/frontend/node_modules/
+fraud-detection/frontend/dist/
+fraud-detection/frontend/.env
